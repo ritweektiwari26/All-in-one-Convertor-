@@ -1,0 +1,5 @@
+{
+  "name": "RT All in one convertor app",
+  "description": "A high-performance all-in-one unit converter with standard conversions and Gemini-powered smart reasoning for obscure or contextual units.",
+  "requestFramePermissions": []
+}
